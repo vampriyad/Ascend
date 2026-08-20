@@ -6,7 +6,7 @@ Official website for **ASCEND**, a student-focused initiative helping students d
 
 Visit the website here:
 
-[https://vampriyad.github.io/ASCEND/](https://vampriyad.github.io/Ascend/)
+[Ascend.com](https://vampriyad.github.io/Ascend/)
 
 ## 🌍 About ASCEND
 
